@@ -1961,14 +1961,17 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.2.0"
 
-"@saltswap/uikit@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@saltswap/uikit/-/uikit-1.0.0.tgz#61683ff3e3f39df57fde7a13c2381caa711f28eb"
-  integrity sha512-Xe/OrNqLkqPbA2DbpmwCBUqVwQZYHM8skfW1hl5xl+d4Freke+IKcpGjtoZqlxL1dJ3tuOgbFwzM4xMsCV3jHw==
+"@saltswap/uikit@^1.2.32":
+  version "1.2.32"
+  resolved "https://registry.yarnpkg.com/@saltswap/uikit/-/uikit-1.2.32.tgz#94681cbebb830a10a664f57133bd2d8714db1892"
+  integrity sha512-Myzk92lD9oEZc/Bwq5338FHhKIbmJLgmAXMvwgfWYbr5Myp4NJ3cSBpPgUL6DYxkAHpNK1KddgndHxpgUN7byw==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
     lodash "^4.17.20"
+    react "^17.0.1"
+    react-dom "^17.0.1"
+    react-router-dom "^5.2.0"
     react-transition-group "^4.4.1"
     styled-system "^5.1.5"
 
@@ -15112,11 +15115,6 @@ typescript@^4.1.5:
   version "4.1.5"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.1.5.tgz#123a3b214aaff3be32926f0d8f1f6e704eb89a72"
   integrity sha512-6OSu9PTIzmn9TCDiovULTnET6BgXtDYL4Gg4szY+cGsc3JP1dQL8qvE8kShTRx1NIw4Q9IBHlwODjkjWEtMUyA==
-
-uikit@^3.7.1:
-  version "3.7.1"
-  resolved "https://registry.yarnpkg.com/uikit/-/uikit-3.7.1.tgz#981fe63c47ba14484f76050b5369eaf14d8d43f2"
-  integrity sha512-obWmwtKY6wnvPqwAgvGmn71PpNM4wMNVzfZDTK6/fO2+NyV/+kVnAOBVgIMcC1XPRBApoFej/Q1heU3wA9lPmg==
 
 ultron@~1.1.0:
   version "1.1.1"
